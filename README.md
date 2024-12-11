@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm Mauricio Rodriguez
-### Passionate Front-end Developer | React & React Native Enthusiast 🚀
+### Certified Meta Front-end Developer | React & React Native 🚀
 
 I'm a Front-end developer who loves crafting beautiful and functional web and mobile applications. I strive to write clean, maintainable code while learning and experimenting with the latest technologies.
 
@@ -59,7 +59,7 @@ A React Native app for traders to track studies, add notes, and analyze statisti
 ## 📫 How to Reach Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodriguezmauricio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-rodriguez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.mauricioalves@example.com)
 
 ---
 
